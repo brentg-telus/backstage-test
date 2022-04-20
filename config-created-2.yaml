@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: backstage-test-config-created-2
+  name: backstage-test-config-loaded-from-repo-yaml
   annotations:
     github.com/project-slug: brentg-telus/backstage-test-config-created-2
 spec:
