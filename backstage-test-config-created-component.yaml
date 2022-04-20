@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-test-config-created
+  annotations:
+    github.com/project-slug: brentg-telus/backstage-test-config-created
+spec:
+  type: other
+  lifecycle: unknown
+  owner: simplify-team
