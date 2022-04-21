@@ -4,7 +4,8 @@ metadata:
   name: backstage-test-config-created
   annotations:
     github.com/project-slug: brentg-telus/backstage-test-config-created
-    backstage.io/techdocs-ref: url:https://github.com/telus/authorization-proxy/blob/jc/docs/techdocs-config.yml
+    backstage.io/techdocs-ref: 
+      url: https://github.com/telus/authorization-proxy/blob/jc/docs/
 spec:
   type: other
   lifecycle: unknown
